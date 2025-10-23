@@ -9,7 +9,10 @@ The Steps taken to create and complete this tutorial are:
 - A classmate was choosen, and then they were added as an collaborator, by selecting the setting option on the main repository, and then select collaborator, and then add people option. The add people dialogue box pops up and then you can add the account names of your collaborator, to add to your repository.
 - Creating a branch in the repository, on the main repository page, select main drop down menu and type in the new of the new branch you want to create.
 - On the branch repository, select the add file option and select upload file, Drag the file to the repository, add description, select commit directly to the correct branch and select Commit changes. '
-- On the branch repository page, select Pull requests, select New pull request
+- On the branch repository page, select Pull requests, select New pull request.
+- After the pull request was sent, the reveiwer check and confirm the pull request and it was merge to the main branch.
+
+- Name of collaborators are: Kevin Dalrymple and Triston Gray
 
 
 
