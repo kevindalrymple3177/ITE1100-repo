@@ -14,6 +14,4 @@ The Steps taken to create and complete this tutorial are:
 
 - Name of collaborators are: Kevin Dalrymple and Triston Gray
 
-
-
 Share repository with Triston Gray
